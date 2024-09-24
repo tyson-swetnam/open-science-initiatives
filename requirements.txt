@@ -1,4 +1,8 @@
 # Requirements for core
+mergedeep
+mkdocs-material
+cairosvg
+pillow
 jinja2~=3.0
 markdown~=3.2
 mkdocs~=1.6
