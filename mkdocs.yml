@@ -1,0 +1,139 @@
+docs_dir: docs/
+repo_name: 'tyson-swetnam/open-science-initiatives'
+repo_url: 'https://github.com/tyson-swetnam/open-science-initiatives'
+
+site_name: 'Open Science Initiatives'
+site_description: 'Open Science Initiatives at University of Arizona'
+site_author: 'Tyson Swetnam'
+site_url: 'https://tyson-swetnam.github.io/open-science-initiatives'
+
+edit_uri: edit/main/docs
+
+# Copyright
+copyright: 'Copyright &copy; 2024 The University of Arizona'
+
+# Navigation Page
+
+nav:
+  - Home: 
+    - 'Home': index.md
+    - Initiatives: 
+      - 'Digital Twins': digital-twins.md
+      - 'Open Data': open-data.md
+      - 'Precision Health': precision-health.md
+    - Platforms:
+      - 'Data Science': data-science.md
+      - 'Cloud Computing': cloud-computing.md
+      - 'Artificial-Intelligence': artificial-intelligence.md 
+    - Resources:
+      - 'Documentation': docs.md
+      - 'Training Resources': training-resources.md
+      - 'Forums': forums.md
+      - 'Events': https://datainsight.arizona.edu/events
+
+
+# must also set Action to use `@nomaterial` branch instead of `@master` for material
+theme:
+  highlightjs: true
+  name: material
+# setting features for the navigation tab
+  features:
+    - navigation.instant
+      #- navigation.expand
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+    - content.code.copy
+    - content.code.prettify
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: ua 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Montserrat
+    code: Regular
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+  favicon: 'assets/ua.ico'
+  logo: 'assets/ua.png'
+
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/tyson-swetnam/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/uarizonadata   
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@UArizonaData
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+plugins:
+  - search
+  - mkdocstrings
+  - git-revision-date
