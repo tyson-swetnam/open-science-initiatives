@@ -19,14 +19,14 @@ nav:
     - 'Home': index.md
     - Initiatives: 
       - 'Digital Twins': digital-twins.md
-      - 'Open Data': open-data.md
+      - 'Data Commons': open-data.md
       - 'Precision Health': precision-health.md
     - Platforms:
       - 'Data Science': data-science.md
       - 'Cloud Computing': cloud-computing.md
       - 'Artificial-Intelligence': artificial-intelligence.md 
     - Resources:
-      - 'Documentation': docs.md
+      - 'Documentation': https://tyson-swetnam.github.io/awesome-open-science/
       - 'Training Resources': training-resources.md
       - 'Forums': forums.md
       - 'Events': https://datainsight.arizona.edu/events

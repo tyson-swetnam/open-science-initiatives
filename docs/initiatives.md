@@ -3,7 +3,7 @@
 ![Open Science Banner](assets/globe.jpeg)
 
 [Digital Twins](digital-twins.md "explore digital representations of the real world"){ .md-button .md-button--primary }
-[Open Data](open-data.md "explore our Data Commons"){ .md-button .md-button--primary }
+[Data Commons](open-data.md "explore our Data Commons"){ .md-button .md-button--primary }
 [Precision Health Care](precision-health.md "explore secure data enclaves for health"){ .md-button .md-button--primary }
 
 # About

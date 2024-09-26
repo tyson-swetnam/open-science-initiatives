@@ -9,7 +9,7 @@
 
 [Precision Health](precision-health.md "Precision Health efforts on campus"){ .md-button }
 [Digital Twins](digital-twins.md "Cutting edge simulations and more"){ .md-button }
-[Open Data](open-data.md "Data Commons resources on campus"){ .md-button }
+[Data Commons](open-data.md "Data Commons resources on campus"){ .md-button }
 
 ---
 
@@ -17,13 +17,13 @@
 
 [Data Science](data-science.md "Digital literacy and research"){ .md-button }
 [Cyberinfrastructure](cloud-computing.md "Cloud Computing and more"){ .md-button }
-[Artificial Intelligence](artificial-intelligence "Generative AI and more"){ .md-button }
+[Artificial Intelligence](artificial-intelligence.md "Generative AI and more"){ .md-button }
 
 ---
 
 [Resources](resources.md){ .md-button .md-button--primary }
 
-[Documentation](docs.md){ .md-button }
+[Documentation](https://tyson-swetnam.github.io/awesome-open-science/){ .md-button target=_blank}
 [Training Resources](training-resources.md){ .md-button }
 [Community Forums](forums.md "Join discussions with like-minded researchers"){ .md-button }
 
@@ -34,15 +34,17 @@
 
 ## [Upcoming Events](https://datainsight.arizona.edu/events){target=_blank}
 
-- **Open Science Symposium 2023**  
-  November 15, 2023 | 9 AM - 4 PM  
-  [Register Now](registration_link)
+- **Open Science Symposium 2025**  
 
 ---
 
 
-## Stay Updated
+## About Us
 
 Stay updated on the latest in open science by subscribing to our newsletter:
 
+[Our Team](team.md)
+
 [Subscribe](subscribe_link)
+
+[Join as a Fellow](fellows.md)
