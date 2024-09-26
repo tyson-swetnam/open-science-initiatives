@@ -1,5 +1,0 @@
-# Open Scientists
-
-
-# Alumni 
-

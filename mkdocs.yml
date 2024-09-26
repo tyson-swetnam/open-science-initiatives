@@ -17,21 +17,21 @@ copyright: 'Copyright &copy; 2024 The University of Arizona'
 nav:
   - Home: 
     - 'Home': index.md
-    - Initiatives: 
-      - 'Digital Twins': digital-twins.md
-      - 'Data Commons': open-data.md
-      - 'Precision Health': precision-health.md
-    - Platforms:
-      - 'Data Science': data-science.md
-      - 'Cloud Computing': cloud-computing.md
-      - 'Artificial-Intelligence': artificial-intelligence.md 
-    - Resources:
-      - 'Documentation': https://tyson-swetnam.github.io/awesome-open-science/
-      - 'Training Resources': training-resources.md
-      - 'Forums': forums.md
-      - 'Events': https://datainsight.arizona.edu/events
-
-
+  - Initiatives: 
+    - 'Digital Twins': digital-twins.md
+    - 'Data Commons': open-data.md
+    - 'Precision Health': precision-health.md
+  - Platforms:
+    - 'Data Science': data-science.md
+    - 'Cloud Computing': cloud-computing.md
+    - 'Artificial-Intelligence': artificial-intelligence.md 
+  - Resources:
+    - 'Documentation': resources.md
+    - 'Training Resources': training-resources.md
+    - 'Forums': forums.md
+  - About:
+    - 'Team': https://datainsight.arizona.edu/about/our-team
+    - 'Events': https://datainsight.arizona.edu/events
 # must also set Action to use `@nomaterial` branch instead of `@master` for material
 theme:
   highlightjs: true
@@ -39,10 +39,12 @@ theme:
 # setting features for the navigation tab
   features:
     - navigation.instant
-      #- navigation.expand
+    - navigation.expand
     - navigation.tracking
     - navigation.sections
     - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
     - toc.follow
     - content.code.copy
     - content.code.prettify
@@ -103,6 +105,9 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - pymdownx.arithmatex:
       generic: true
@@ -110,7 +115,6 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
-  - pymdownx.details
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
@@ -134,6 +138,8 @@ markdown_extensions:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
 
 plugins:
+  - social:
+      cards_layout: default/accent
   - search
   - mkdocstrings
   - git-revision-date

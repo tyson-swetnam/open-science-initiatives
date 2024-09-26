@@ -23,20 +23,12 @@
 
 [Resources](resources.md){ .md-button .md-button--primary }
 
-[Documentation](https://tyson-swetnam.github.io/awesome-open-science/){ .md-button target=_blank}
+[Documentation](https://tyson-swetnam.github.io/awesome-open-science/ "Awesome Open Science meta list"){ .md-button target=_blank}
 [Training Resources](training-resources.md){ .md-button }
 [Community Forums](forums.md "Join discussions with like-minded researchers"){ .md-button }
 
-
-
----
-
-
-## [Upcoming Events](https://datainsight.arizona.edu/events){target=_blank}
-
-- **Open Science Symposium 2025**  
-
----
+[Team](https://datainsight.arizona.edu/about/our-team "Meet our team"){ .md-button }
+[Events](https://datainsight.arizona.edu/events){ .md-button }
 
 
 ## About Us
