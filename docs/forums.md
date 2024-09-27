@@ -1,4 +1,5 @@
 
+![Open Science Banner](assets/oldmain.jpg)
 
 [Research Bazaar Arizona (ResBazAz)](https://researchbazaar.arizona.edu/){target=_blank}
 

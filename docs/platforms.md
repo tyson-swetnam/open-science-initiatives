@@ -2,9 +2,9 @@
 
 ![Open Science Banner](assets/ai.jpeg)
 
-[Data Science](data-science.md "Digital literacy and research"){ .md-button }
-[Cyberinfrastructure](cloud-computing.md "Cloud Computing and more"){ .md-button }
-[Artificial Intelligence](artificial-intelligence "Generative AI and more"){ .md-button }
+[Data Science](data-science.md "Digital literacy and research"){ .md-button .md-button--primary }
+[Cyberinfrastructure](cloud-computing.md "Cloud Computing and more"){ .md-button .md-button--primary }
+[Artificial Intelligence](artificial-intelligence.md "Generative AI and more"){ .md-button .md-button--primary }
 
 ## About
 
@@ -16,7 +16,9 @@ In addition to ICDI, the [Data Science Institute](https://datascience.arizona.ed
 
 ---
 
-## Cyberinfrastucture
+## **Cyberinfrastructure**
+
+Open Science leverages cyberinfrastructure (broadly defined as the integrated hardware, software, data, and people that support scientific computing) to enable access to large computational resources, like research high performance computing (HPC) environments and commercial cloud. Open and shared cyberinfrastructure facilitates collaboration amongst scientists globally, reduces redundancy, and optimizes resource utilization which lowers costs.
 
 [![cyverse](assets/cyverse_logo_2022.png "CyVerse: cyberinfrastructure for open science"){width=200}](https://cyverse.org){target=_blank}
 

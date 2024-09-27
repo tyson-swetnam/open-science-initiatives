@@ -4,15 +4,15 @@
 
 ## About
 
-The term 'Digital Twin' has existed since at least the early 1960's when it was used to simulate models for the [Apollo space program](https://ntrs.nasa.gov/citations/20210023699){target=_blank}. Semantic terms like 'simulation', 'prototype', or 'model' can be used interchangeably with 'digital twin'. 
+The term 'Digital Twin' has existed since the early 1960's when it was first used to describe simulation models for the [Apollo space program](https://ntrs.nasa.gov/citations/20210023699){target=_blank}. 
 
-Mentions of [Digital Twins](https://doi.org/10.1016/j.cirpj.2020.02.002){target=_blank} have [grown exponentially in the literature](https://pubmed.ncbi.nlm.nih.gov/?term=digital+twin&sort=){target=_blank} in the last five years.
+Digital twins should integrate real-time data from the physical counterpart to simulate, predict, and optimize performance in a virtual environment. Digital twins are common [in industrial applications](https://doi.org/10.1016/j.compind.2023.104007){target=_blank}, i.e., Industry 4.0 or Fourth Industrial Revolution (4IR), and in [civil engineering](https://doi.org/10.1016/j.iintel.2023.100050){target=_blank}. An open source digital twin for IoT is [Eclipse Ditto](https://eclipse.dev/ditto/){target=_blank} and [iTwin.js](https://www.itwinjs.org/){target=_blank} for infrastructure.
 
-## ICDI's support of Digital Twins
+In the last five years, mentions of [Digital Twins](https://doi.org/10.1016/j.cirpj.2020.02.002){target=_blank} have [grown exponentially in the literature](https://pubmed.ncbi.nlm.nih.gov/?term=digital+twin&sort=){target=_blank}. Semantically, terms like 'digital twin', 'simulation', 'prototype', or 'model' are used interchangeably in research applications. A digital twin is a virtual model that accurately represents a physical object, system, or process. 
 
-ICDI manages large computational and data storage resources in collaboration with [CyVerse.org](https://cyverse.org){target=_blank}. [Prof. Tyson Swetnam](https://datainsight.arizona.edu/person/tyson-swetnam){target=_blank}, ICDI's Director of Open Science Initiatives is a co-Principal Investigator of CyVerse and supports multiple extramural research awards focused on Digital Twin research.
+## Highlighting ICDI support of Digital Twins research
 
-If your research is using simulation, modelling, prototyping, or digital twins feel free to contact us to learn more about how we support research and education projects both locally and globally. 
+[Tyson Swetnam](https://datainsight.arizona.edu/person/tyson-swetnam){target=_blank}, ICDI's Director of Open Science Initiatives, is also a co-Principal Investigator of [CyVerse.org](https://cyverse.org){target=_blank} which currently supports multiple awards on Digital Twins.
 
 ## Digital Twin Projects @ University of Arizona
 

@@ -18,18 +18,22 @@ nav:
   - Home: 
     - 'Home': index.md
   - Initiatives: 
+    - 'About': initiatives.md
     - 'Digital Twins': digital-twins.md
     - 'Data Commons': open-data.md
     - 'Precision Health': precision-health.md
   - Platforms:
+    - 'About': platforms.md
     - 'Data Science': data-science.md
-    - 'Cloud Computing': cloud-computing.md
+    - 'Cyberinfrastructure': cloud-computing.md
     - 'Artificial-Intelligence': artificial-intelligence.md 
   - Resources:
-    - 'Documentation': resources.md
+    - 'About': resources.md
+    - 'Documentation': https://tyson-swetnam.github.io/awesome-open-science
     - 'Training Resources': training-resources.md
     - 'Forums': forums.md
-  - About:
+  - Join Us:
+    - 'About': fellows.md
     - 'Team': https://datainsight.arizona.edu/about/our-team
     - 'Events': https://datainsight.arizona.edu/events
 # must also set Action to use `@nomaterial` branch instead of `@master` for material
