@@ -1,4 +1,4 @@
-# Join Us
+# Join Us!
 
 !!! Question "**Are you already doing Open Science in your research or education programs?**" 
     
@@ -26,8 +26,6 @@
     [Contact Us](https://www.arizona.edu/contact-us){ .md-button target=_blank}
 
 ## **Residency, Fellowship, & Scholarship**
-
-In order for Open Science to be truly successful within the competitive environment of academia, there must be an incentives that attract talent. 
 
 ICDI supports existing University of Arizona faculty, staff, and graduate students through fellowships and supplemental compensation. We can also provide space for visiting scholars who wish to come to University of Arizona for sabbatical or for professional development.
 
